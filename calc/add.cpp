@@ -1,10 +1,6 @@
 #include "add.h"
-//add.cpp error
-int add(int a, int b)
+
+int add(int x, int y)
 {
-<<<<<<< HEAD
-	return a+b;
-=======
 	return x + y;
->>>>>>> dev/b
 }
