@@ -1,7 +1,8 @@
 #include "mul.h"
 
-/// °öÇÏ±â ¿¬»ê
+/// °öÇÏ±â
 int mul(int x, int y)
+
 {
 	return x*y;
 }
