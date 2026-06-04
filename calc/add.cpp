@@ -1,6 +1,6 @@
 #include "add.h"
-
-int add(int x, int y)
+//add.cpp error
+int add(int a, int b)
 {
-	return 0;
+	return a+b;
 }
